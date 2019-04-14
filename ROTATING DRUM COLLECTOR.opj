@@ -1,0 +1,155 @@
+(ExpressProject "ROTATING DRUM COLLECTOR"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\rotating drum collector.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (74LS14
+      (FullPartName "74LS14.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "0"))
+    (7404
+      (FullPartName "7404.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "0"))
+    (SN74LS14D
+      (FullPartName "SN74LS14D_A.Normal")
+      (LibraryName
+         "C:\USERS\HONG PHUC\DOWNLOADS\UL_SN74LS14D\ORCADCAPTUREEDF\2019-03-25_15-12-17.OLB")
+      (DeviceIndex "0"))
+    (TLP620-4
+      (FullPartName "TLP620-4.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (TLP620-2
+      (FullPartName "TLP620-2.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (TLP126
+      (FullPartName "TLP126.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (OP-14
+      (FullPartName "OP-14.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\OPAMP.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 4_3"
+      (FullPartName "HEADER 4_3.Normal")
+      (LibraryName
+         "K:\12. ORCAD\16.0\SCHEMATIC_3\SCHEMATIC_3\HPHUC SCHEMATIC_3\ROTATING DRUM COLLECTOR.DSN")
+      (DeviceIndex "0"))
+    (TLP280-4_F_
+      (FullPartName "TLP280-4_F_.Normal")
+      (LibraryName
+         "C:\USERS\HONG PHUC\DOWNLOADS\UL_TLP2804F\ORCADCAPTUREEDF\2019-03-25_08-44-01.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 4"
+      (FullPartName "HEADER 4.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (74HC7014
+      (FullPartName "74HC7014.Normal")
+      (LibraryName "C:\USERS\HONG PHUC\DOWNLOADS\74HC7014D (1)\74HC7014D.OLB")
+      (DeviceIndex "0"))
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\PSPICE\FILTSUB.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (TLP2105
+      (FullPartName "TLP2105.Normal")
+      (LibraryName
+         "K:\12. ORCAD\LIBRARY\TLP2105\ORCADCAPTUREEDF\2019-03-20_15-42-21.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 3_6"
+      (FullPartName "HEADER 3_6.Normal")
+      (LibraryName
+         "D:\3. SPIROMETER\4. SPIROMETER\2. HARDWARE DESIGN\1. SCHEMATIC\1. SPIROMETER\THESIS_2 - DEMO_1\THESIS_2.DSN")
+      (DeviceIndex "0"))
+    ("HEADER 6_2"
+      (FullPartName "HEADER 6_2.Normal")
+      (LibraryName
+         "D:\3. SPIROMETER\4. SPIROMETER\2. HARDWARE DESIGN\1. SCHEMATIC\1. SPIROMETER\THESIS_2 - DEMO_1\THESIS_2.DSN")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON_0"
+      (FullPartName "SW PUSHBUTTON_0.Normal")
+      (LibraryName "D:\3. HOC TAP\THESIS\HARDWARE\ECG_RECORD.DSN")
+      (DeviceIndex "0"))
+    (24C02A_P
+      (FullPartName "24C02A_P.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\PROM.OLB")
+      (DeviceIndex "0"))
+    (24C02/SO8
+      (FullPartName "24C02/SO8.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\PROM.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("SW MAG-SPDT"
+      (FullPartName "SW MAG-SPDT.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("SW KEY-Y1011"
+      (FullPartName "SW KEY-Y1011.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\HONG PHUC\Downloads\ul_SN74LS14D\OrcadCaptureEDF")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\rotating drum collector.dsn")
+      (Path "Design Resources" ".\rotating drum collector.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\rotating drum collector.dsn" "SCHEMATIC1"
+         "RIVISION"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 0 601 -8 -31 283 483 -14 474"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1250 52 419")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\VIETANH\DESKTOP\HONG PHUC\ROTATING DRUM COLLECTOR\ROTATING DRUM COLLECTOR\ROTATING DRUM COLLECTOR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "ROTATING DRUM COLLECTOR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1276 78 445")
+        (Scroll "-90 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\VIETANH\DESKTOP\HONG PHUC\ROTATING DRUM COLLECTOR\ROTATING DRUM COLLECTOR\ROTATING DRUM COLLECTOR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "RIVISION")))
+  (MPSSessionName "VIETANH"))
